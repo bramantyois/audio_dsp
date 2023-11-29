@@ -1,0 +1,4 @@
+ipykernel
+pytest
+pylance
+black
